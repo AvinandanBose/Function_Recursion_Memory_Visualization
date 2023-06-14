@@ -1,4 +1,4 @@
-<h1 align="Center">𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒊𝒕𝒔 𝑴𝒆𝒎𝒐𝒓𝒚
+<h1 align="Center">𝑨.𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒊𝒕𝒔 𝑴𝒆𝒎𝒐𝒓𝒚
 𝑹𝒆𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑺𝒕𝒂𝒄𝒌.</h1>
 
 <ul>
@@ -134,7 +134,7 @@
 <br>
 <br>
 <h1></h1>
-<h1 align="Center">𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 𝒂𝒏𝒅 𝒊𝒕𝒔 𝑴𝒆𝒎𝒐𝒓𝒚
+<h1 align="Center">𝑩.𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 𝒂𝒏𝒅 𝒊𝒕𝒔 𝑴𝒆𝒎𝒐𝒓𝒚
 𝑹𝒆𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑺𝒕𝒂𝒄𝒌.</h1>
 
 
@@ -473,6 +473,129 @@ ${(𝟎𝒙𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝑪)_{𝟏𝟔} = (𝟑𝟎𝟓𝟒𝟏�
 
   
   
-</ul>  
-</ul>  
+</ul> 
 
+<br>
+
+<br>
+
+<h3>𝑵𝒐𝒘 𝒂𝒇𝒕𝒆𝒓 𝒘𝒓𝒂𝒑𝒑𝒊𝒏𝒈 𝒖𝒑 𝒕𝒉𝒆 𝒘𝒉𝒐𝒍𝒆 𝒑𝒓𝒐𝒄𝒆𝒔𝒔, 𝒂𝒏𝒅
+𝒇𝒓𝒂𝒎𝒊𝒏𝒈 𝒊𝒕 𝒊𝒔 𝒂 𝒍𝒊𝒕𝒕𝒍𝒆 𝒅𝒊𝒇𝒇𝒊𝒄𝒖𝒍𝒕 𝒂𝒏𝒅 𝒂 𝒃𝒊𝒕 𝒍𝒆𝒏𝒈𝒕𝒉𝒚.</h3>
+
+<h3>𝑯𝒆𝒏𝒄𝒆 𝒕𝒂𝒌𝒆 𝒕𝒉𝒐𝒔𝒆 𝒆𝒙𝒂𝒎𝒑𝒍𝒆𝒔 𝒂𝒈𝒂𝒊𝒏:</h3>
+
+
+<h2></h2>
+<h2 align="Center"><ins>𝑬𝒙𝒂𝒎𝒑𝒍𝒆:𝟏</ins></h2>
+
+<ul>
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/7d66e99e-5fcb-49ce-9389-502e90d3cdc9"  width="700" height="600">  
+
+
+</ul>
+
+<h3>𝑾𝒆 𝒄𝒂𝒏 𝒔𝒊𝒎𝒑𝒍𝒊𝒇𝒚 𝒕𝒉𝒆 𝒔𝒕𝒆𝒑𝒔 𝒍𝒊𝒌𝒆:𝒏 = 𝟒</h3>
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/8ce23f32-48e5-4462-802e-fa54f76d77a6"  width="500" height="400">  
+
+
+<h3>𝑵𝒐𝒕𝒆, 𝒉𝒐𝒘 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒈𝒆𝒕 𝒆𝒙𝒄𝒖𝒕𝒆𝒅?</h3>
+
+<h3 align="Center"><ins>𝟏𝒔𝒕 𝑷𝒂𝒓𝒕</ins></h3>
+
+<ul>
+  
+<h3>𝟏𝒔𝒕 𝒏 = 𝟒 𝒂𝒏𝒅 𝒏 𝒘𝒊𝒍𝒍 𝒈𝒆𝒕 𝒑𝒖𝒔𝒉𝒆𝒅 𝒊𝒏 𝒎𝒂𝒊𝒏 𝒔𝒕𝒂𝒄𝒌 𝒇𝒓𝒂𝒎𝒆.</h3>
+<h3>𝟐𝒏𝒅 𝒑 = 𝟒 𝒂𝒏𝒅 𝒒 = 𝟒 𝒂𝒏𝒅 𝒑, 𝒒 𝒘𝒊𝒍𝒍 𝒈𝒆𝒕 𝒑𝒖𝒔𝒉𝒆𝒅 𝒊𝒏 𝒔𝒕𝒂𝒄𝒌.</h3>
+<h3>𝟑𝒓𝒅 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒄𝒉𝒆𝒄𝒌 𝒑 = 𝟐 𝒐𝒓 𝒒 = 𝟐 𝒊𝒔 𝒕𝒓𝒖𝒆 𝒐𝒓 𝒇𝒂𝒍𝒔𝒆 , 𝒏𝒐𝒘 𝒊𝒕 𝒊𝒔
+𝒇𝒂𝒍𝒔𝒆.</h3>
+<h3>𝟒𝒓𝒕𝒉 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒈𝒐 𝒕𝒐 𝒆𝒍𝒔𝒆 𝒑𝒂𝒓𝒕 𝒂𝒏𝒅 𝒑𝒓𝒊𝒏𝒕 𝒂 𝒂𝒏𝒅 𝒃 𝒗𝒂𝒓𝒊𝒂𝒃𝒍𝒆.</h3>
+<h3>𝟓𝒕𝒉 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒓𝒆𝒕𝒖𝒓𝒏 𝒊. 𝒆. 𝒄𝒂𝒍𝒍 𝒑𝒓𝒊𝒏𝒕 (𝟒 − 𝟏 = 𝟑, 𝟒 − 𝟏 = 𝟑)
+𝒓𝒆𝒄𝒖𝒓𝒔𝒊𝒗𝒆𝒍𝒚.</h3>
+
+</ul>
+
+<h3 align="Center"><ins>𝟐𝒏𝒅 𝑷𝒂𝒓𝒕</ins></h3>
+
+<ul>
+  
+<h3>𝟏𝒔𝒕 𝒑 = 𝟑 𝒂𝒏𝒅 𝒒 = 𝟑 𝒂𝒏𝒅 𝒑, 𝒒 𝒘𝒊𝒍𝒍 𝒈𝒆𝒕 𝒑𝒖𝒔𝒉𝒆𝒅 𝒊𝒏 𝒔𝒕𝒂𝒄𝒌.</h3>
+<h3>𝟐𝒏𝒅 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒄𝒉𝒆𝒄𝒌 𝒑 = 𝟐 𝒐𝒓 𝒒 = 𝟐 𝒊𝒔 𝒕𝒓𝒖𝒆 𝒐𝒓 𝒇𝒂𝒍𝒔𝒆 , 𝒏𝒐𝒘 𝒊𝒕 𝒊𝒔
+𝒇𝒂𝒍𝒔𝒆.</h3>
+<h3>𝟑𝒓𝒅 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒈𝒐 𝒕𝒐 𝒆𝒍𝒔𝒆 𝒑𝒂𝒓𝒕 𝒂𝒏𝒅 𝒑𝒓𝒊𝒏𝒕 𝒂 𝒂𝒏𝒅 𝒃 𝒗𝒂𝒓𝒊𝒂𝒃𝒍𝒆.</h3>
+<h3>𝟒𝒓𝒕𝒉 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒓𝒆𝒕𝒖𝒓𝒏 𝒊. 𝒆. 𝒄𝒂𝒍𝒍 𝒑𝒓𝒊𝒏𝒕 (𝟑 − 𝟏 = 𝟐, 𝟑 − 𝟏 = 𝟐)
+𝒓𝒆𝒄𝒖𝒓𝒔𝒊𝒗𝒆𝒍𝒚.</h3>
+
+</ul>
+
+<h3 align="Center"><ins>𝑳𝒂𝒔𝒕 𝑷𝒂𝒓𝒕</ins></h3>
+
+<ul>
+
+<h3>𝑨𝒔 𝒊𝒕 𝒄𝒂𝒍𝒍𝒔 𝒑𝒓𝒊𝒏𝒕(𝒑 = 𝟐, 𝒒 = 𝟐), 𝒑, 𝒒 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒑𝒖𝒔𝒉𝒆𝒅 𝒊𝒏 𝒕𝒉𝒆
+𝒔𝒕𝒂𝒄𝒌 𝒇𝒓𝒂𝒎𝒆 𝒂𝒏𝒅 𝒕𝒉𝒆𝒏 𝒘𝒊𝒍𝒍 𝒄𝒉𝒆𝒄𝒌 𝒑 = 𝟐 𝒐𝒓 𝒒 = 𝟐 𝒊𝒔 𝒕𝒓𝒖𝒆
+𝒐𝒓 𝒇𝒂𝒍𝒔𝒆 , 𝒏𝒐𝒘 𝒊𝒕 𝒊𝒔 𝒕𝒓𝒖𝒆 , 𝒉𝒆𝒏𝒄𝒆 𝒓𝒆𝒕𝒖𝒓𝒏 𝟐.𝑨𝒔 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒏𝒐𝒕 𝒈𝒐 𝒕𝒐
+𝒆𝒍𝒔𝒆 𝒑𝒂𝒓𝒕 𝒉𝒆𝒏𝒄𝒆 𝒏𝒐 `𝒄𝒐𝒖𝒕` 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 𝒓𝒖𝒏𝒔.</h3>
+
+</ul>
+
+<br>
+<br>
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/b58f1c2c-3f31-400a-9446-66b8841a5b7d"  width="400" height="400"> 
+
+<h3>𝟐 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒑𝒐𝒑𝒑𝒆𝒅 𝒕𝒐 𝒎𝒂𝒊𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒇𝒓𝒐𝒎 𝒎𝒂𝒊𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒐𝒓 𝒎𝒂𝒊𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏′𝒔 𝒔𝒕𝒂𝒄𝒌 𝒇𝒓𝒂𝒎𝒆 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒂𝒈𝒂𝒊𝒏 𝒈𝒆𝒕
+𝒑𝒐𝒑𝒑𝒆𝒅 𝒐𝒖𝒕 𝒔𝒐 𝒕𝒉𝒂𝒕 𝒘𝒆 𝒄𝒂𝒏 𝒔𝒆𝒆 𝒕𝒉𝒆 𝒓𝒆𝒕𝒖𝒓𝒏 𝒗𝒂𝒍𝒖𝒆.</h3>
+
+
+
+
+
+
+
+
+</ul> 
+
+
+<h2></h2>
+
+<h2 align="Center"><ins>𝟐𝒏𝒅 𝑬𝒙𝒂𝒎𝒑𝒍𝒆:</ins></h2>
+
+<ul>
+
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/58044378-4591-4395-9e51-503b12fa0a16"  width="700" height="600">  
+
+<h3>𝒍𝒆𝒕,𝒏 =  𝟒</h3>
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/76691a0b-e393-44e2-9492-49419c8cd06c"  width="500" height="600"> 
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/c429eac2-99e9-4a2f-b114-c07e9fdec311"  width="500" height="600"> 
+
+
+
+
+
+
+</ul>
+
+<h2></h2>
+<h2 align="Center"><ins>𝟑𝒓𝒅 𝑬𝒙𝒂𝒎𝒑𝒍𝒆:</ins></h2>
+
+<ul>
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/f52141cc-a156-4c70-b40c-30884cb2a29d"  width="700" height="600">
+
+<h3>𝒍𝒆𝒕,𝒏 =  𝟒</h3>
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/f0a62190-c8e5-4141-81d1-f6dd0da3cd62"  width="400" height="500"> 
+
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/e646f993-fd6b-4ab8-a559-a54796175732"  width="400" height="500"> 
+
+
+</ul>
+
+</ul>
+
+<h1 align="Center">***********</h1>
