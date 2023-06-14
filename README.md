@@ -307,8 +307,172 @@ ${(𝟎𝒙𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝑪)_{𝟏𝟔} = (𝟑𝟎𝟓𝟒𝟏�
   
 </ul>  
     
-</ul> 
+</ul>
+
+
+<br>
+
+<br>
+
+<h3>𝑵𝒐𝒘 𝒍𝒆𝒕𝒔 𝒄𝒐𝒏𝒔𝒊𝒅𝒆𝒓 𝒂 𝒔𝒊𝒎𝒊𝒍𝒂𝒓 𝒕𝒚𝒑𝒆 𝒐𝒇
+𝒓𝒆𝒈𝒖𝒍𝒂𝒓 𝒆𝒙𝒂𝒎𝒑𝒍𝒆:</h3>
+
+
+<ul>
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/190aab6e-284e-492d-b929-e873027e356c"  width="700" height="500">  
+  
 
   
+<h3>𝑰𝒇 𝒏 = 𝟐 , 𝒕𝒉𝒆𝒏 𝒑𝒖𝒔𝒉 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏:</h3>
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/8f64717b-8645-4ddd-965c-8ebb2b6f2aba"  width="700" height="700">
+  
+  
+
+<h2>𝑵𝒐𝒘,𝑷𝒐𝒑 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏 ∶</h2>
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/57c7f7da-8346-40dc-9529-d2416d17c02d"  width="700" height="700">  
+  
+  
+<h2>𝑵𝒆𝒙𝒕:</h2>
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/c111e7a0-d717-4be9-91ed-aa304d94859d"  width="700" height="600">   
+  
+<h2>𝑵𝒆𝒙𝒕:</h2>
+  
+  
+![Screenshot (771)](https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/ff9d1954-d782-4bd8-b014-037d3a617e6f)
+
+
+
+  <h2></h2>
+  <h2>𝑸)𝑾𝒉𝒂𝒕 𝒄𝒐𝒖𝒕 𝒅𝒐𝒆𝒔?</h2>
+  
+  <ul>
+    
+  <h3><ins>𝑬𝒙𝒑𝒍𝒂𝒏𝒂𝒕𝒊𝒐𝒏:</ins></h3> 
+    
+  <h3> 𝑵𝒐𝒘 `𝒄𝒐𝒖𝒕` 𝒐𝒖𝒕𝒑𝒖𝒕 𝒅𝒂𝒕𝒂 𝒕𝒐 𝒂 𝒔𝒕𝒓𝒆𝒂𝒎,𝒊𝒕 𝒉𝒂𝒔 𝒏𝒐𝒕𝒉𝒊𝒏𝒈 𝒕𝒐 𝒅𝒐 𝒘𝒊𝒕𝒉
+𝒑𝒖𝒔𝒉 𝒂𝒏𝒅 𝒑𝒐𝒑 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒐𝒇 𝒔𝒕𝒂𝒄𝒌.</h3> 
+<h3> 𝑻𝒉𝒆 𝒗𝒂𝒍𝒖𝒆 𝒐𝒇 `𝒏` 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒃𝒐𝒗𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎 𝒊𝒔 𝒑𝒖𝒔𝒉𝒆𝒅 𝒊𝒏 𝒕𝒉𝒆
+𝒔𝒕𝒂𝒄𝒌 𝒇𝒓𝒂𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒊𝒕 𝒊𝒔 𝒑𝒓𝒊𝒏𝒕𝒆𝒅 .</h3> 
+<h3>𝑻𝒉𝒆 𝒗𝒂𝒍𝒖𝒆 𝒐𝒇 `𝒏` 𝒘𝒊𝒍𝒍 𝒕𝒉𝒆𝒏 𝒃𝒆 𝒑𝒐𝒑𝒑𝒆𝒅 𝒐𝒇𝒇 𝒕𝒉𝒆 𝒔𝒕𝒂𝒄𝒌
+𝒂𝒇𝒕𝒆𝒓 𝒊𝒕 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒑𝒓𝒊𝒏𝒕𝒆𝒅.  </h3> 
+    
+    
+  </ul>  
+  
+  
+ <h2></h2> 
+ <h3>𝑵𝒐𝒘 𝒄𝒐𝒏𝒔𝒊𝒅𝒆𝒓 𝒂𝒏𝒐𝒕𝒉𝒆𝒓 𝒓𝒆𝒄𝒖𝒓𝒔𝒊𝒗𝒆
+𝒑𝒓𝒐𝒈𝒓𝒂𝒎:</h3> 
+  
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/1f025a1a-7167-4914-9caf-9acbcbd2fe8d"  width="700" height="300">  
+  
+<h3>𝑾𝒆 𝒘𝒊𝒍𝒍 𝒔𝒕𝒂𝒓𝒕 , 𝒘𝒉𝒆𝒏 𝒕𝒉𝒆 𝒑𝒖𝒔𝒉 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆𝒅
+𝒂𝒏𝒅 𝒕𝒉𝒆 𝒃𝒂𝒔𝒆 𝒄𝒐𝒏𝒅𝒊𝒕𝒊𝒐𝒏 𝒊𝒔 𝒆𝒙𝒆𝒄𝒖𝒕𝒆𝒅.</h3> 
+<h3>𝑻𝒉𝒆 `𝟏` 𝒐𝒇 𝒕𝒉𝒆 𝒓𝒆𝒕𝒖𝒓𝒏 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒑𝒖𝒔𝒉𝒆𝒅 𝒕𝒐 𝒕𝒉𝒆 𝒔𝒕𝒂𝒄𝒌 , 𝒂𝒔 𝒔𝒉𝒐𝒘𝒏
+𝒃𝒆𝒍𝒐𝒘:</h3> 
+  
+  
+![Recursion-2_Page_07](https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/ed02d3c6-069d-4aa4-b58f-94cfddfb0075)
+  
+
+<h3>𝑵𝒆𝒙𝒕 𝒕𝒉𝒆 𝒃𝒂𝒔𝒆 𝒓𝒆𝒕𝒖𝒓𝒏 `𝟏` 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒂𝒅𝒅𝒆𝒅 𝒘𝒊𝒕𝒉 `𝟏` 𝒂𝒏𝒅 𝒓𝒆𝒔𝒖𝒍𝒕
+𝒘𝒊𝒍𝒍 𝒃𝒆 𝒑𝒖𝒔𝒉𝒆𝒅 𝒕𝒐 𝒕𝒉𝒆 𝒓𝒆𝒕𝒖𝒓𝒏 𝒗𝒂𝒍𝒖𝒆 𝒔𝒆𝒄𝒕𝒊𝒐𝒏.</h3>
+  
+  
+![Recursion-2_Page_08](https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/4d8c31cb-a66b-47aa-b77d-abd649415bc8)
+  
+<h3>𝑨𝒏𝒅 𝒕𝒉𝒆 𝒑𝒓𝒐𝒄𝒆𝒔𝒔 𝒊𝒔 𝒄𝒐𝒏𝒕𝒊𝒏𝒖𝒆𝒅 𝒕𝒊𝒍𝒍 𝒕𝒉𝒆 𝒔𝒕𝒂𝒄𝒌 𝒇𝒓𝒂𝒎𝒆 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒊𝒔
+𝒏𝒐𝒕 𝒇𝒊𝒏𝒊𝒔𝒉𝒆𝒅 𝒂𝒔 𝒔𝒉𝒐𝒘𝒏 𝒃𝒆𝒍𝒐𝒘:</h3>
+  
+  ![Recursion-2_Page_09](https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/088faf77-4311-44b0-acda-a3d7f7a80377)
+  
+![Recursion-2_Page_10](https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/d5647739-4985-40a2-b927-69f30f3ec95f)
+  
+ 
+  
+</ul>  
+
+<h2></h2>
+<h2 align="Center">𝑴𝒂𝒊𝒏 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝑺𝒕𝒂𝒄𝒌 𝑭𝒓𝒂𝒎𝒆</h2>
+
+<ul>
+  
+  
+<h3>𝟏. 𝑻𝒉𝒆𝒓𝒆 𝒂𝒓𝒆 𝒕𝒘𝒐 𝒌𝒊𝒏𝒅 𝒐𝒇 𝒔𝒄𝒆𝒏𝒂𝒓𝒊𝒐𝒔 ∶</h3>
+  
+<ul>
+  
+<h3>𝒂) 𝒆𝒊𝒕𝒉𝒆𝒓 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒊𝒔 𝒄𝒂𝒍𝒍𝒆𝒅 𝒊𝒏 𝒎𝒂𝒊𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒘𝒊𝒕𝒉𝒐𝒖𝒕 𝒃𝒆𝒊𝒏𝒈
+𝒂𝒔𝒔𝒊𝒈𝒏𝒆𝒅 𝒕𝒐 𝒂𝒏𝒚 𝒗𝒂𝒓𝒊𝒂𝒃𝒍𝒆.</h3>
+<h3>𝒃)𝒆𝒊𝒕𝒉𝒆𝒓 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒊𝒔 𝒄𝒂𝒍𝒍𝒆𝒅 𝒊𝒏 𝒎𝒂𝒊𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏
+𝒂𝒔𝒔𝒊𝒈𝒏𝒆𝒅 𝒕𝒐 𝒂𝒏𝒚 𝒗𝒂𝒓𝒊𝒂𝒃𝒍𝒆.</h3>
+
+ 
+</ul> 
+  
+<h3>𝑪𝒐𝒏𝒔𝒊𝒅𝒆𝒓 𝒕𝒉𝒆 𝒇𝒐𝒍𝒍𝒐𝒘𝒊𝒏𝒈 𝒆𝒙𝒂𝒎𝒑𝒍𝒆: </h3>
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/a01424a5-27f1-4cc1-b9fb-f4addc4fa953"  width="700" height="500">   
+  
+
+<h3>  𝑺𝒂𝒚 𝒏 = 𝟑.</h3>
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/956d6b2a-38a6-41a4-9aa0-e3a34f494d8e"  width="300" height="500">   
+  
+ 
+  
+  
+  
+
+
+<h3> 𝑻𝒉𝒆 𝒓𝒆𝒔𝒖𝒍𝒕 𝒈𝒆𝒕𝒔 𝒑𝒐𝒑𝒑𝒆𝒅 𝒐𝒖𝒕 𝒇𝒓𝒐𝒎 𝒑𝒓𝒊𝒏𝒕() 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒔𝒕𝒂𝒄𝒌
+𝒇𝒓𝒂𝒎𝒆 𝒊𝒔 𝟑.𝑹𝒆𝒕𝒖𝒓𝒏 𝒗𝒂𝒍𝒖𝒆 𝟑 𝒈𝒆𝒕𝒔 𝒔𝒕𝒐𝒓𝒆𝒅 𝒊𝒏 𝑬𝑨𝑿 𝒓𝒆𝒈𝒊𝒔𝒕𝒆𝒓
+𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒆𝒅 𝒘𝒊𝒕𝒉 𝑴𝒊𝒄𝒓𝒐𝒑𝒓𝒐𝒄𝒆𝒔𝒔𝒐𝒓. </h3>
+  
+
+
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/76543705-b0a2-408a-8bf6-05caf0251094"  width="200" height="100">   
+    
+<h3>𝑬𝑨𝑿 𝒊. 𝒆.𝑬𝒙𝒕𝒆𝒏𝒅𝒆𝒅 𝑨𝒄𝒄𝒖𝒎𝒖𝒍𝒂𝒕𝒐𝒓 𝒐𝒇 𝑴𝒊𝒄𝒓𝒐𝒑𝒓𝒐𝒄𝒆𝒔𝒔𝒐𝒓,
+𝒘𝒉𝒊𝒄𝒉 𝒊𝒔 𝒊𝒕𝒔𝒆𝒍𝒇 𝒂 𝒓𝒆𝒈𝒊𝒔𝒕𝒆𝒓.</h3>
+  
+<h3>𝑵𝒐𝒘 𝒇𝒓𝒐𝒎 𝑬𝑨𝑿 𝒓𝒆𝒈𝒊𝒔𝒕𝒆𝒓 , 𝒓𝒆𝒕𝒖𝒓𝒏 𝒗𝒂𝒍𝒖𝒆 𝟑 𝒘𝒊𝒍𝒍 𝒈𝒆𝒕 𝒑𝒖𝒔𝒉𝒆𝒅 𝒕𝒐 𝒎𝒂𝒊𝒏
+𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒔𝒕𝒂𝒄𝒌 𝒇𝒓𝒂𝒎𝒆.</h3>
+  
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/c51b6458-f71b-4db1-aa83-9fc488c8a891"  width="700" height="500">    
+  
+
+<h3> 𝑻𝒉𝒊𝒔 𝒑𝒓𝒐𝒄𝒆𝒔𝒔 𝒓𝒆𝒎𝒂𝒊𝒏 𝒔𝒂𝒎𝒆 𝒇𝒐𝒓 𝒊𝒏𝒕 𝒂 = 𝒑𝒓𝒊𝒏𝒕(𝒏), 𝒂𝒔 𝒔𝒉𝒐𝒘𝒏
+𝒃𝒆𝒍𝒐𝒘:</h3>
+  
+  
+![Screenshot (776)](https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/3b87d064-ec65-41be-810a-c25fb15d72d2)
+  
+  
+<h3> 𝑰𝒏 𝒔𝒂𝒎𝒆 𝒘𝒂𝒚 𝒄𝒊𝒏 𝒊𝒔 𝒔𝒕𝒂𝒏𝒅𝒂𝒓𝒅 𝒊𝒏𝒑𝒖𝒕 𝒇𝒓𝒐𝒎 𝒊𝒏𝒑𝒖𝒕 𝒅𝒆𝒗𝒊𝒄𝒆 𝒂𝒏𝒅
+𝒉𝒂𝒔 𝒏𝒐𝒕𝒉𝒊𝒏𝒈 𝒕𝒐 𝒅𝒐 𝒘𝒊𝒕𝒉 𝒅𝒊𝒓𝒆𝒄𝒕𝒍𝒚 𝒇𝒐𝒓 𝒔𝒕𝒂𝒄𝒌 𝒃𝒖𝒕 𝒂𝒔 𝒊𝒕 𝒕𝒂𝒌𝒆
+𝒊𝒏𝒑𝒖𝒕 𝒇𝒐𝒓 𝒂 𝒗𝒂𝒓𝒊𝒂𝒃𝒍𝒆, 𝒕𝒉𝒆 𝒊𝒏𝒑𝒖𝒕 𝒗𝒂𝒍𝒖𝒆 𝒈𝒆𝒕𝒔 𝒑𝒖𝒔𝒉𝒆𝒅 𝒊𝒏 𝒔𝒕𝒂𝒄𝒌 .</h3>
+  
+<h3>𝑵𝒐𝒘 𝒂𝒔 𝒓𝒆𝒕𝒖𝒓𝒏 𝒗𝒂𝒍𝒖𝒆 𝒈𝒆𝒕𝒔 𝒑𝒐𝒑𝒑𝒆𝒅 𝒐𝒖𝒕 𝒊. 𝒆. 𝟑,𝑷𝒓𝒐𝒈𝒓𝒂𝒎
+𝑪𝒐𝒖𝒏𝒕𝒆𝒓(𝑷𝑪)𝒊𝒔 𝒖𝒑𝒅𝒂𝒕𝒆𝒅 𝒘𝒊𝒕𝒉 𝒓𝒆𝒕𝒖𝒓𝒏 𝒂𝒅𝒅𝒓𝒆𝒔𝒔
+𝒐𝒇 𝒎𝒂𝒊𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏: 𝟎𝒙𝟏𝟐𝟑𝟒𝟓𝟔.</h3>
+  
+  
+<img src="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization/assets/38869235/ee2cfdd1-40e0-4198-8c34-85141063be90"  width="700" height="700">   
+  
+
+<h3>𝑨𝒏𝒅 𝒍𝒊𝒌𝒆 𝒐𝒕𝒉𝒆𝒓 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏′𝒔 𝒔𝒕𝒂𝒄𝒌 𝒇𝒓𝒂𝒎𝒆 , 𝒕𝒉𝒆 𝒎𝒂𝒊𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏′𝒔 𝒔𝒕𝒂𝒄𝒌 𝒇𝒓𝒂𝒎𝒆 𝒂𝒍𝒔𝒐 𝒅𝒆𝒂𝒍𝒍𝒐𝒄𝒂𝒕𝒆𝒔 𝒂𝒏𝒅 𝒍𝒐𝒄𝒂𝒍 𝒗𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔 𝒈𝒆𝒕𝒔 𝒅𝒆𝒔𝒕𝒓𝒐𝒚𝒆𝒅 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 .</h3>
+ 
+
+  
+  
+</ul>  
 </ul>  
 
